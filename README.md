@@ -15,7 +15,7 @@
   <!-- Profile Image with Neon Glow -->
   <p>
     <a href="https://github.com/yourusername">
-      <img src="github.png" alt="Profile" width="150" 
+      <img src="github2.png" alt="Profile" width="150" 
       style="
         border-radius:50%; 
         border: 4px solid #36BCF7; 
