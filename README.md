@@ -1,38 +1,44 @@
 <!-- Background Section with Gradient -->
-<div align="center" style="
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), 
-                url('https://img.freepik.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42975.jpg') center/cover no-repeat;
-    padding: 50px 20px; 
-    border-radius: 12px;
-    color: white;
-">
+<div align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" alt="MasterHead" width="450" ">
+    
+  </a>
+</div>
 
-  <!-- Title -->
-  <h1 style="text-shadow: 2px 2px 8px rgba(0,0,0,0.7);">
-    Hi there 👋 I'm <span style="color:#36BCF7">Shruti Sandip Manval</span>
-  </h1>
+<br/>
+<br/>
 
-  <!-- Profile Image with Neon Glow -->
-  <p>
-    <a href="https://github.com/yourusername">
-      <img src="github2.png" alt="Profile" width="150" 
-      style="
-        border-radius:50%; 
-        border: 4px solid #36BCF7; 
-        box-shadow: 0 0 10px #36BCF7, 0 0 20px #36BCF7;
-      "/>
-    </a>
-  </p>
 
-  <!-- Typing SVG below GitHub image -->
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Problem+Solver" alt="Typing SVG" />
-  </p>
+<h1 align="center">Hi 👋, I'm Shruti Manval</h1>
+<br/>
 
-  <!-- Description -->
-  <p style="font-size:18px; text-shadow: 1px 1px 3px rgba(0,0,0,0.6);">
-    🚀 Passionate developer crafting digital experiences with modern technologies.<br>
-    🌱 Always learning, always building.
-  </p>
+<h3 align="center">🚀 Passionate about crafting seamless web experiences, intelligent solutions, and scalable cloud systems</h3>
 
+<br/><br/>
+  ## 🙋‍♂️ About Me
+<br/>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/c7/15/4b/c7154b20aa547387ea43913c4adcadc9.png">
+
+- 💻 I’m currently working on **Edunova : Virtual Lab Platform**
+
+- 🌱 I’m currently learning **Cloud Computing , Android , Cyber Security**
+
+- 📫 How to reach me **shrutimanval104@gmail.com**
+
+- 📄 Know about my experiences :  [ **My Resume** ]([https://drive.google.com/drive/folders/16qDD7AbTSL9j9NrBbfG1OPJXAi7W1ipB?usp=sharing](https://drive.google.com/file/d/18dUxniu3BNhwbscxrTzEQmHc-yR_544H/view?usp=drivesdk))
+
+- ⚡ Fun fact: **Why do programmers prefer dark mode?**  
+ **Because light attracts *bugs*!**
+
+
+
+ ## 📫 Connect With Me :
+<br/>
+
+  <p align="left">
+<a href="www.linkedin.com/in/shruti-manval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuresh-muluk" height="30" width="40" /></a>
+<a href="https://instagram.com/shruti__m06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__immayureshhh" height="30" width="40" /></a>
+</p>
+<br/>
 </div>
